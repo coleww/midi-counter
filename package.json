@@ -1,0 +1,14 @@
+{
+  "name": "midi-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
