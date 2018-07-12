@@ -9,6 +9,7 @@
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.3.0",
     "midi": "^0.9.5"
   }
 }
